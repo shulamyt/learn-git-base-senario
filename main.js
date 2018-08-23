@@ -1,2 +1,2 @@
 3-master
-1-branch-B
+2-branch-B
